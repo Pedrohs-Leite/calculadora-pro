@@ -45,14 +45,3 @@ Aplicar estruturas condicionais e tratamento de erros.
 
 Pensar de forma autônoma e lógica, quebrando o problema em pequenas partes (entrada → processamento → saída).
 
-
-📂 Como Executar
-
-Clone este repositório:
-
-git clone https://github.com/seuusuario/calculadora.git
-
-
-Abra o arquivo index.html no navegador.
-
-Pronto! A calculadora estará funcionando 🎯
